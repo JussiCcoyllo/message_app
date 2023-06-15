@@ -10,6 +10,9 @@ This is a INTEC project created in the cours Java EE at INTEC.
 We've worked with the Agile methodology using Trello.
 ![image](https://github.com/JussiCcoyllo/message_app/assets/46483286/1d416e03-e5c4-4f40-82ea-888ccf3a5a36)
  
+The Login and Register by Email and by SMS
+![image](https://github.com/JussiCcoyllo/message_app/assets/46483286/ce1f7baf-206f-43c3-9455-ec707d3dca12)
+![image](https://github.com/JussiCcoyllo/message_app/assets/46483286/6c771f03-1788-4fd4-933c-9251745be5a4)
  
 ## Built With
 - Spring Boot
